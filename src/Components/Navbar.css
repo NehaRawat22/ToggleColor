@@ -1,0 +1,10 @@
+.container-fluid{
+    background-color: rgb(153, 203, 203);
+}
+.navbar-brand{
+    color: blue;
+    font-size: 27px;
+}
+.nav-link{
+    font-size: 18px;
+}
